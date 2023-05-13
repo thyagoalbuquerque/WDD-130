@@ -46,7 +46,7 @@ body {
 
 /* Setting header background color */
 header {
-    background-color: wheat;
+    background-color: #656149;
 }
 
 /* Setting navigation link hover background color */
@@ -60,10 +60,10 @@ nav a {
     text-decoration: none;
 }
 .msg{
-    background-color: wheat;
+    background-color: #656149;
 }
 footer{
-    background-color:wheat;
+    background-color:#656149;
 }
 footer a{
     color: #134266;
